@@ -1,0 +1,6 @@
+#Written by CorePropertiesLocator
+#Mon Jul 13 08:16:33 UTC 2015
+name=recruitement_core
+config=solrconfig.xml
+schema=schema.xml
+dataDir=data
